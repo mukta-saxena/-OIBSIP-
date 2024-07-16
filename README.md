@@ -1,2 +1,2 @@
 # -OIBSIP-
-This repository includes my python developer projects that I have made on my Oasis infobyte internship
+The repository contains the tasks of the Python Programming Internship✨ & cool Python Programming✌️ projects!
